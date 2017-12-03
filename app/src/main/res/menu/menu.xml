@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu1"
+        android:title="Boormark"
+        android:orderInCategory="10"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/menu2"
+        android:title="Search"
+        android:orderInCategory="10"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/menu3"
+        android:title="Share"
+        android:orderInCategory="10"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/menu4"
+        android:title="Delete"
+        android:orderInCategory="10"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/menu5"
+        android:title="Preference"
+        android:orderInCategory="10"
+        app:showAsAction="never"
+        />
+</menu>
